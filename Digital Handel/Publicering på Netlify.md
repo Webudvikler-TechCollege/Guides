@@ -18,6 +18,7 @@ Netlify gør det super nemt at få et website eller en webapp online — du beh�
 2. Tryk **“Log in”**
 3. Vælg **“Log in with GitHub”**
 4. Giv Netlify adgang til dit GitHub (kun første gang)
+5. Gå ind på Netlify i en ny fane hvis du ikke kan se indstillinger.
 
 ---
 
@@ -27,8 +28,7 @@ Netlify gør det super nemt at få et website eller en webapp online — du beh�
 3. Vælg dit **repository (repo)** fra listen  
    _(Hvis du ikke kan se det, klik “Configure the Netlify app on GitHub” og giv adgang til repoet)_
 
----
-
+--
 ## Trin 3 — Vælg build-indstillinger
 
 ### Hvis det er et almindeligt HTML-projekt
